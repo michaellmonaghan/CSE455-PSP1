@@ -28,6 +28,6 @@ class MyMath {
 		for (int i = 0; i < numbers.length; i++) {
 			numbers[i] = s.nextDouble();
 		}
-		System.out.println(stdDeviation(numbers));
+		System.out.println("Standard deviation is:\n" + stdDeviation(numbers));
 	}
 }
