@@ -1,1 +1,3 @@
-javac MyMath.java ; java MyMath
+#!/bin/sh
+javac MyMath.java
+java MyMath
