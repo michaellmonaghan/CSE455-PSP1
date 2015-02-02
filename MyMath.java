@@ -3,7 +3,7 @@ import java.util.Scanner;
 class MyMath {
 	
 	public static double mean(double[] numbers) {
-		int sum = 0;
+		double sum = 0;
 		for (double number : numbers) {
 			sum += number;
 		}
